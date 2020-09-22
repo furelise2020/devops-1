@@ -18,5 +18,5 @@
     2. Tomcat server
         a. SSH      = myIP/22
         b. custom   = myIP/8080
-        c. custom   = Jenkins-server-IP/all ports
+        c. custom   = Jenkins-server-IP/8080
 </h2>
