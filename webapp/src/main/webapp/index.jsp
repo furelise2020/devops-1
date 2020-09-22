@@ -10,16 +10,16 @@
 
 <h2>
     change in inbound rules of security group
-    <ol>    1. Jenkins server
-        <li>a. SSH      = myIP/22  </li>
-        <li>b. custom   = myIP/8080</li>
+    <ol>Jenkins server
+        <li>SSH      = myIP/22  </li>
+        <li>custom   = myIP/8080</li>
     </ol>
         
     <br><br></h>
 
-    <ol>    2. Tomcat server
-        <li>a. SSH      = myIP/22  </li>
-        <li>b. custom   = myIP/8080</li>
-        <li>c. custom   = Jenkins-server-IP/8080</li>
+    <ol>Tomcat server
+        <li>SSH      = myIP/22  </li>
+        <li>custom   = myIP/8080</li>
+        <li>custom   = Jenkins-server-IP/8080</li>
     </ol>
 </h2>
