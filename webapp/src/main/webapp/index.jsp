@@ -23,3 +23,7 @@
         <li>custom   = Jenkins-server-IP/8080</li>
     </ol>
 </h2>
+
+<h6>
+    One last time auto CI/CD
+</h6>
