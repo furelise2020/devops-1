@@ -10,4 +10,13 @@
 
 <h2>
     change in inbound rules of security group
+
+    1. Jenkins server
+        a. SSH      = myIP/22
+        b. custom   = myIP/8080
+        
+    2. Tomcat server
+        a. SSH      = myIP/22
+        b. custom   = myIP/8080
+        c. custom   = Jenkins-server-IP/all ports
 </h2>
